@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @manalgo-MK
-- 👀 I’m interested in web development,cyber security,
+- 👋 Hi, I’m Manishkumar
+- 👀 I’m interested in web development,cyber security,editing,linux platforms,distro-hopping
 - 🌱 I’m currently learning html,css,js,react,python,c++,java
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me will update soon
